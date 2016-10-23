@@ -68,7 +68,7 @@ module.exports = (opts) => {
     },
 
     resolve: {
-      extensions: ['', '.js', '.jsx'],
+      extensions: ['*', '.js', '.jsx'],
       modules: [
         path.resolve(PROJECT_ROOT, '{{ cookiecutter.project_slug }}-react'),
         'node_modules',
