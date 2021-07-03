@@ -10,3 +10,4 @@ django-debug-toolbar==1.5
 
 # improved REPL
 ipdb==0.10.1
+django>=3.1.13 # not directly required, pinned by Snyk to avoid a vulnerability
