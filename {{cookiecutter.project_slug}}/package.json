@@ -51,7 +51,7 @@
     "watchify": "^3.7.0",
     "webpack": "^2.1.0-beta.20",
     "webpack-bundle-tracker": "0.0.93",
-    "webpack-dev-server": "^2.1.0-beta.0",
+    "webpack-dev-server": "^3.1.10",
     "whatwg-fetch": "^1.0.0",
     "redux-thunk": "^2.1.0"
   },
