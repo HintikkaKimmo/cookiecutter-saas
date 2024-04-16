@@ -18,3 +18,4 @@ raven==5.26.0
 # -----------------------------------------
 newrelic==2.68.0.50
 
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
